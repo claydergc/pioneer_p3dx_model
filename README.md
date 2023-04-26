@@ -7,7 +7,7 @@ https://github.com/SD-Robot-Vision/PioneerModel.git
 
 # To install:
 ```
-$ cd <catkin_ws>/src
+$ cd catkin_ws/src
 $ git clone https://github.com/claydergc/pioneer_p3dx_model.git
 $ cd ..
 $ catkin_make
