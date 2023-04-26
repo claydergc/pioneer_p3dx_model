@@ -21,6 +21,9 @@ Spawning Robot: In another terminal tab
 $ roslaunch p3dx_gazebo p3dx.launch
 
 ```
+
+# Note:
+```
 In order to use the other included world files, it is necessary to replace the following for all the matches:
 
 Example:
